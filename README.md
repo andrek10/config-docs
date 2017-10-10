@@ -6,3 +6,10 @@ Scripts located in e.g. C:\Users\USERNAME\ipython\profile_default\startup\ are r
 # LaTeX
 ## Latex Workshop in VSCode
 Get SyncTex to work by copying kpathsea622.dll and synctex.exe into i.e. \MiKTeX 2.9\miktex\bin\x64.
+
+# Inkscape
+## Get LaTeX
+Install pstoedit and ghostscript. Make sure both are in path. Latex and dvips should also be in path.
+
+## Get LaTeX shortkey
+Copy default.xml into C:\Program Files\Inkscape\share\keys
