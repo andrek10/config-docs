@@ -1,0 +1,17 @@
+vscode/name = VSCode
+vscode/background = #1e1e1e
+vscode/currentline = #282828
+vscode/currentcell = #31314e
+vscode/occurrence = #343a40
+vscode/ctrlclick = #0000ff
+vscode/sideareas = #1e1e1e
+vscode/matched_p = #4c555e
+vscode/unmatched_p = #c80000
+vscode/normal = ('#ffffff', False, False)
+vscode/keyword = ('#c586b5', False, False)
+vscode/builtin = ('#569cd6', False, False)
+vscode/definition = ('#ffffff', False, False)
+vscode/comment = ('#608b4e', False, False)
+vscode/string = ('#ce9178', False, False)
+vscode/number = ('#b5cea8', False, False)
+vscode/instance = ('#569cd6', False, False)
